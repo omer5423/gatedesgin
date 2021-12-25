@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gatedesgin/static/css/main.36047582.chunk.css",
+    "main.js": "/gatedesgin/static/js/main.fb13018b.chunk.js",
+    "main.js.map": "/gatedesgin/static/js/main.fb13018b.chunk.js.map",
+    "runtime-main.js": "/gatedesgin/static/js/runtime-main.3c665ac0.js",
+    "runtime-main.js.map": "/gatedesgin/static/js/runtime-main.3c665ac0.js.map",
+    "static/css/2.548a9565.chunk.css": "/gatedesgin/static/css/2.548a9565.chunk.css",
+    "static/js/2.c2f19210.chunk.js": "/gatedesgin/static/js/2.c2f19210.chunk.js",
+    "static/js/2.c2f19210.chunk.js.map": "/gatedesgin/static/js/2.c2f19210.chunk.js.map",
+    "index.html": "/gatedesgin/index.html",
+    "static/css/2.548a9565.chunk.css.map": "/gatedesgin/static/css/2.548a9565.chunk.css.map",
+    "static/css/main.36047582.chunk.css.map": "/gatedesgin/static/css/main.36047582.chunk.css.map",
+    "static/js/2.c2f19210.chunk.js.LICENSE.txt": "/gatedesgin/static/js/2.c2f19210.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c665ac0.js",
+    "static/css/2.548a9565.chunk.css",
+    "static/js/2.c2f19210.chunk.js",
+    "static/css/main.36047582.chunk.css",
+    "static/js/main.fb13018b.chunk.js"
+  ]
+}
